@@ -1,0 +1,44 @@
+For dataset1:
+
+Before pruning,  accuracy = 76.30%
+
+Post pruning, 1 st attempt:
+ K = 0 , accuracy = 76.30%
+
+Post pruning, 2 st attempt:
+ K = 3 , accuracy = 75.90%
+
+Post pruning, 3 st attempt:
+ K = 5 , accuracy = 76.25%
+
+Post pruning, 4 st attempt:
+ K = 8 , accuracy = 76.70%
+
+Post pruning, 5 st attempt:
+ K = 10 , accuracy = 76.30%
+
+
+The best decision tree gets accuracy = 76.70% when K=8, which is to prune 8 nodes.
+
+For dataset2:
+
+Before pruning,  accuracy = 72.83%
+
+Post pruning, 1 st attempt:
+ K = 0 , accuracy = 72.83%
+
+Post pruning, 2 st attempt:
+ K = 3 , accuracy = 73.83%
+
+Post pruning, 3 st attempt:
+ K = 5 , accuracy = 74.83%
+
+Post pruning, 4 st attempt:
+ K = 8 , accuracy = 72.83%
+
+Post pruning, 5 st attempt:
+ K = 10 , accuracy = 73.17%
+
+The best decision tree gets accuracy = 74.83% when K=5, which is to prune 5 nodes.
+
+
